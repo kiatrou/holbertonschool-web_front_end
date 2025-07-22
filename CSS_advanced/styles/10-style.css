@@ -24,7 +24,7 @@
     --section-header-align: center;
 }
 
-.section-tagline.section-header {
+.section-header {
     text-align: var(--section-header-align);
 }
 
