@@ -212,6 +212,7 @@ html {
     display: block;
 }
 
-.social-link svg {
+/* > is the child combinator (or direct child selector) It selects only direct children, not deeper descendants*/
+.social-link > svg {
     fill: var(--text-color);
 }
