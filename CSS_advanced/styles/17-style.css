@@ -120,4 +120,5 @@ html {
 
 .footer {
     padding: var(--footer-padding);
+    text-align: var(--section-footer-align);
 }
