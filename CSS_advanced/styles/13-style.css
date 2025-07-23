@@ -65,6 +65,10 @@ a {
 }
 
 /* a[href] specifically targets anchor elements with links*/
+a:link {
+    
+}
+
 a[href]:visited {
     font-style: italic;
 }
