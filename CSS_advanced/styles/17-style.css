@@ -36,7 +36,7 @@
     --footer-padding: 5rem 0 1rem;
 }
 
-section {
+.section {
     padding-left: var(--section-padding);
     padding-right: var(--section-padding);
     padding-bottom: var(--section-padding);
