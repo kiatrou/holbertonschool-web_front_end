@@ -364,10 +364,13 @@ html {
 
 .card-work .card-title a::after {
     position: absolute;
-    inset: 0;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
     content: "";
 }
 
-.card-work .card-title:hover {
+.card-work:hover .card-title {
     opacity: 1;
 }
